@@ -1,0 +1,9 @@
+Merge Sort is another popular coding challenge faced by aspiring coders when looking for things to do in Python.
+
+This divide-and-conquer strategy uses division to separate a list of numbers into equal parts, and these are then recursively sorted before being recombined to generate a sorted list.
+
+If you’ve just completed the Binary Search example, you might notice some similarities with division and reducing a problem’s size. You’d be right, which means you’ve likely realized we need to use recursion.
+
+This Python implementation of Merge Sort uses recursion to handle the divide and conquer process. The continual reduction of the problem size allows the problem to be solved when the recursive base case is reached, namely when the problem size is one element or less.
+
+In essence, this Python program continues to recursively divide the list until it reaches the base case. At this point it begins sorting the smaller parts of the problem, resulting in smaller sorted arrays that are recombined to eventually generate a fully sorted array. If you’re familiar with Big O notation, you’ll be curious to know that Merge Sort has a Big O of (n logn).
