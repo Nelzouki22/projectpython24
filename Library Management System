@@ -1,0 +1,5 @@
+As one of the more advanced Python projects, this program uses object-oriented programming to simulate a library management system.
+
+In this example, we create a Library and Student class, which we can use to create our library system and its users. We’ve then implemented a simple user interface that asks the user to select from a range of standard library actions, like borrowing or returning books. 
+
+This is a simple yet powerful example of how you can build out real-world systems via Python and object-oriented programming. Feel free to expand the classes to include other useful features, like unique book IDs, multiple copies of the same book, return dates, fees for returning books late, or any other features you think a library should have!
