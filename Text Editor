@@ -1,0 +1,5 @@
+Building on our last tkinter example, this fun Python project creates a GUI to simulate our very own text editor. This example also uses standard GUI components, including labels, buttons, and entry fields.
+
+However, we’ve also added the ability to open and save files like a real text editor. If you’re new to file handling, this Python project is a great way to understand how to read-in and save files.
+
+Experiment with the code below to solidify your understanding, and see if you can expand on this code to create other features you’re used to using with a text editor, like a ‘find word’ function.
