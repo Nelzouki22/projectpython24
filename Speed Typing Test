@@ -1,0 +1,5 @@
+This is an interesting Python project that tests how quickly you can accurately type out a sentence.
+
+This program requires us to create a graphical user interface (GUI) via the tkinter module. If you’re new to GUIs, this example is a nice introduction as we use a range of simple labels, buttons, and entry fields to create a window. We’ve also used the Python timeit module to handle the timing aspect of our typing test, and the random module to randomly select a test phrase.
+
+We’ve only added two test phrases to this example, but feel free to experiment with more or even integrate a 3rd party dictionary for a wider array of examples.
